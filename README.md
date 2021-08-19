@@ -1,6 +1,6 @@
 <h1>Passport Login Project</h1>
 <h2>Set Up (Important)</h2>
-To use this program you have to create a MongoDB cluster in paste the string into
+To use this program you have to create a MongoDB cluster and paste the string into
 config/key.js.
 <h2>Objective</h2>
 Learn how to use passport to authenticate users, ejs to create layouts, and bcrypt to encrypt user passwords.
